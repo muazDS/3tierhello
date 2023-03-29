@@ -1,5 +1,5 @@
 {
-  "name": "example-app",
+  "name": "myapp-web",
   "version": "1.0.0",
   "description": "An example Node.js app using Express and MySQL",
   "main": "index.js",
